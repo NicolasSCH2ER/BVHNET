@@ -1,0 +1,3 @@
+C:/Users/nicol/Code/renderer/build/CMakeFiles/renderer.dir
+C:/Users/nicol/Code/renderer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/nicol/Code/renderer/build/CMakeFiles/ZERO_CHECK.dir
